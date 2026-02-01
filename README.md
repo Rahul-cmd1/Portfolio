@@ -25,3 +25,6 @@
 ## My Contribution snake
 ![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
 ## Rajneesh Kumar Singh
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there!+👋;I'm+Rahul+Kumar;Web+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
